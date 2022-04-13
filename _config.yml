@@ -8,7 +8,7 @@ locale: de-DE
 google_analytics:
 
 #theme: minimal-mistakes-jekyll
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+remote_theme: iamsebastian/hbb-theme
 plugins:
 - jekyll-remote-theme
 - jekyll-include-cache
@@ -16,12 +16,15 @@ plugins:
 
 include: ["_pages"]
 
+atom_feed:
+  hide: true
+
 defaults:
   # _pages
   - scope:
       path: ""
       type: pages
     values:
-      layout: home
-      author_profile: true
+      layout: splash
+      author_profile: false
       classes: wide

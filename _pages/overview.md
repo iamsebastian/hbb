@@ -31,28 +31,28 @@ feature_row:
     btn_label: "Vergrößern"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/visual_2.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
+  - image_path: /assets/images/visual_1.jpg
+    alt: "visual 1"
+    title: "An einer ruhigen Straße gelegen ..."
+    excerpt: '...'
+    url: "/overview"
+    btn_label: "zu Maps"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/visual_2.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    alt: "visual 2"
+    title: "... mitten im Neubaugebiet."
+    excerpt: '...'
+    url: "/overview"
+    btn_label: "Infos zum Gebiet"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/visual_2.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
+  - image_path: /assets/images/visual_1.jpg
+    alt: "visual 1"
+    title: "Ein zentraler Ort, und doch ruhig."
+    excerpt: 'Im Bild zu sehen: _Rechts:_ die wenige Jahre alte Bestandsbebauung; _Links:_ unser Neubauvorhaben.'
+    url: "/overview"
+    btn_label: "Erfahren Sie mehr ..."
     btn_class: "btn--primary"
 ---
 
