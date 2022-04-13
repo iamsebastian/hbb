@@ -1,0 +1,10 @@
+*.gem
+*.lock
+.jekyll-cache
+.bundle
+.sass-cache
+CNAME
+test-site/
+_site
+vendor/
+tmp/

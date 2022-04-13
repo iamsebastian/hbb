@@ -1,0 +1,27 @@
+title: Heidelbergblick
+title_separator: "|"
+subtitle: Wohnanlagen Projekt
+name: TH-Haus
+description: Wohnanlagen Projekt
+locale: de-DE
+
+google_analytics:
+
+#theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+plugins:
+- jekyll-remote-theme
+- jekyll-include-cache
+#- github-pages
+
+include: ["_pages"]
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: home
+      author_profile: true
+      classes: wide

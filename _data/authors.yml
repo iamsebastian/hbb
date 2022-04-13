@@ -1,0 +1,10 @@
+#Authors
+
+H1:
+  name: "Haus 1"
+  bio: "Das erste Haus in der Reihe"
+  avatar: "/assets/images/builds/drafts/h1.png"
+  links:
+    - label: "per Mail Anfragen"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:info@th-haus.de"
