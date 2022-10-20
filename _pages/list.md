@@ -6,7 +6,7 @@ title: Häuser
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
-  overlay_image: /assets/images/visual_2.jpg
+  overlay_image: /assets/images/visual_221013_02_s.jpg
   caption: "Visualisierung 1"
 excerpt: "Unsere schönen Häuser ..."
 ---

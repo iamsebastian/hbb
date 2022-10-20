@@ -5,14 +5,10 @@ name: TH-Haus
 description: Wohnanlagen Projekt
 locale: de-DE
 
-google_analytics:
-
-#theme: minimal-mistakes-jekyll
 remote_theme: iamsebastian/hbb-theme
 plugins:
 - jekyll-remote-theme
 - jekyll-include-cache
-#- github-pages
 
 include: ["_pages"]
 
@@ -20,7 +16,6 @@ atom_feed:
   hide: true
 
 defaults:
-  # _pages
   - scope:
       path: ""
       type: pages

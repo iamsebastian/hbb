@@ -31,7 +31,7 @@ feature_row:
     btn_label: "Vergrößern"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/visual_1.jpg
+  - image_path: /assets/images/visual_221013_01_s.jpg
     alt: "visual 1"
     title: "An einer ruhigen Straße gelegen ..."
     excerpt: '...'
@@ -39,7 +39,7 @@ feature_row2:
     btn_label: "zu Maps"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/visual_2.jpg
+  - image_path: /assets/images/visual_221013_02_s.jpg
     alt: "visual 2"
     title: "... mitten im Neubaugebiet."
     excerpt: '...'
@@ -47,12 +47,20 @@ feature_row3:
     btn_label: "Infos zum Gebiet"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/visual_1.jpg
-    alt: "visual 1"
+  - image_path: /assets/images/visual_221013_04_s.jpg
+    alt: "visual 4"
     title: "Ein zentraler Ort, und doch ruhig."
     excerpt: 'Im Bild zu sehen: _Rechts:_ die wenige Jahre alte Bestandsbebauung; _Links:_ unser Neubauvorhaben.'
     url: "/overview"
     btn_label: "Erfahren Sie mehr ..."
+    btn_class: "btn--primary"
+feature_row5:
+  - image_path: /assets/images/visual_221013_05_s.jpg
+    alt: "visual 5"
+    title: ""
+    excerpt: ''
+    url: "/overview"
+    btn_label: "..."
     btn_class: "btn--primary"
 ---
 
@@ -65,3 +73,5 @@ feature_row4:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
+
+{% include feature_row id="feature_row5" type="center" %}
