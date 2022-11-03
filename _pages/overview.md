@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.3"
   overlay_image: /assets/images/lines/grundstuecke.png
   caption: "Projektüberblick"
-excerpt: "Verschaffen Sie sich einen Überblick über das Projekt und die Bebauungsplanung."
+excerpt: "Verschaffen Sie sich einen Überblick."
 feature_row:
   - image_path: /assets/images/lines/gelaendeschnitt_a.png
     alt: "Geländeschnitt A"

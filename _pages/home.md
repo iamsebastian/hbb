@@ -17,7 +17,7 @@ intro:
 
 Wenn Sie Interesse an einem stilvollen Zuhause haben, sind Sie hier genau richtig.
 
-# Häuser
+# Projekt
 
-Einen konkreten Überblick über die Häuser können sie hier gewinnen: [zu den Häusern](/list)
+Einen konkreten Überblick über das Projekt können sie hier gewinnen: [zum Projekt](/project)
 

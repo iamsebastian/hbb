@@ -1,8 +1,10 @@
 main:
-  - title: "Häuser"
-    url: /list
+  #- title: "Häuser"
+    #url: /list
   - title: "Home"
     url: /
+  - title: "Projekt"
+    url: /project
   - title: "Überblick"
     url: /overview/
   - title: "TH-Haus (ext.)"
