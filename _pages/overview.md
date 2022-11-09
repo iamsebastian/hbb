@@ -8,28 +8,39 @@ header:
   overlay_image: /assets/images/lines/grundstuecke.png
   caption: "Projektüberblick"
 excerpt: "Verschaffen Sie sich einen Überblick."
-feature_row:
-  - image_path: /assets/images/lines/haus_schnitt_1.png
-    alt: "Hausschnitt 1"
-    title: "Hausschnitt 1"
+
+feature_northsouth:
+  - image_path: /assets/images/lines/schnitt_nord.png
+    alt: "Hausschnitt Nord"
+    title: "Hausschnitt Nord"
     excerpt: ""
-    url: "/assets/images/lines/gelaendeschnitt_a.png"
+    url: "/assets/images/lines/schnitt_nord.png"
     btn_label: "Vergrößern"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/lines/haus_schnitt_5.png
-    alt: "Hausschnitt 5"
-    title: "Hausschnitt 5"
+    btn_class: ""
+  - image_path: /assets/images/lines/schnitt_sued.png
+    alt: "Hausschnitt Süd"
+    title: "Hausschnitt Süd"
     excerpt: ""
-    url: "/assets/images/lines/gelaendeschnitt_b.png"
+    url: "/assets/images/lines/schnitt_sued.png"
     btn_label: "Vergrößern"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/lines/haus_schnitt_8.png
-    alt: "Hausschnitt 8"
-    title: "Hausschnitt 8"
+    btn_class: ""
+
+feature_eastwest:
+  - image_path: /assets/images/lines/schnitt_ost.png
+    alt: "Hausschnitt Ost"
+    title: "Hausschnitt Ost"
     excerpt: ""
-    url: "/assets/images/lines/gelaendeschnitt_c.png"
+    url: "/assets/images/lines/schnitt_ost.png"
     btn_label: "Vergrößern"
-    btn_class: "btn--primary"
+    btn_class: ""
+  - image_path: /assets/images/lines/schnitt_west.png
+    alt: "Hausschnitt West"
+    title: "Hausschnitt West"
+    excerpt: ""
+    url: "/assets/images/lines/schnitt_west.png"
+    btn_label: "Vergrößern"
+    btn_class: ""
+
 feature_row1:
   - image_path: /assets/images/lines/grundstuecke.png
     alt: "Grundstücke"
@@ -37,45 +48,48 @@ feature_row1:
     excerpt: ""
     url: "/assets/images/lines/grundstuecke.png"
     btn_label: "Vergrößern"
-    btn_class: "btn--primary"
+    btn_class: ""
+
 feature_row2:
   - image_path: /assets/images/visual_221013_01_s.jpg
-    alt: "visual 1"
-    title: ""
+    alt: "Hausansicht Südost"
+    title: "Hausansicht Südost"
     excerpt: ''
     url: "/assets/images/visual_221013_01_s.jpg"
     btn_label: "zu Maps"
     btn_label: "Vergrößern"
-    btn_class: "btn--primary"
+    btn_class: ""
 feature_row3:
   - image_path: /assets/images/visual_221013_02_s.jpg
-    alt: ""
-    title: ""
+    alt: "Hausansicht Südwest"
+    title: "Hausansicht Südwest"
     excerpt: ''
     url: "/assets/images/visual_221013_02_s.jpg"
     btn_label: "Vergrößern"
-    btn_class: "btn--primary"
+    btn_class: ""
 feature_row4:
   - image_path: /assets/images/visual_221013_04_s.jpg
-    alt: ""
-    title: ""
+    alt: "Hausansicht Nordost"
+    title: "Hausansicht Nordost"
     excerpt: ''
     url: "/assets/images/visual_221013_04_s.jpg"
     btn_label: "Vergrößern"
-    btn_class: "btn--primary"
+    btn_class: ""
 feature_row5:
   - image_path: /assets/images/visual_221013_05_s.jpg
-    alt: "visual 5"
-    title: ""
+    alt: "Hausansicht Nordwest"
+    title: "Hausansicht Nordwest"
     excerpt: ''
     url: "/assets/images/visual_221013_05_s.jpg"
     btn_label: "Vergrößern"
-    btn_class: "btn--primary"
+    btn_class: ""
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_northsouth" type="center" %}
+
+{% include feature_row id="feature_eastwest" type="center" %}
 
 {% include feature_row id="feature_row1" type="center" %}
 

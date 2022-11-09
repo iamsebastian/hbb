@@ -5,21 +5,22 @@ permalink: /contact/
 header:
   overlay_color: "#CCC"
   overlay_filter: "0.3"
-excerpt: "Nehmen Sie Kontakt auf!"
+  overlay_image: /assets/images/visual_221013_02_s.jpg
+  caption: "Visualisierung 2"
+excerpt: "Nehmen Sie Kontakt mit uns auf!"
 ---
 
-# E-Mail
+> th-holzbau-GmbH<br/>
+> Freiherr-vom-Stein-Str. 32<br/>
+> 99734 Nordhausen
 
-Die einfachste Kontakt-Aufnahme erfolgt per: [E-Mail](mailto:info@triga-nordhausen.de?Subject=BV%20Heidelbergblick%20Kontaktaufnahme)
+[E-Mail senden](mailto:info@triga-nordhausen.de?Subject=BV%20Heidelbergblick%20Kontaktaufnahme)
 
-# Vertrieb
+### Vertrieb
 
-TRIGA Immobilien
-
-Töpferstr. 28
-
-99734 Nordhausen
+> TRIGA Immobilien<br/>
+> Töpferstr. 28<br/>
+> 99734 Nordhausen<br/>
+> Fax: 03631 - 466 567
 
 Tel.: [03631 - 466 566](tel:+493631466566)
-
-Fax: 03631 - 466 567

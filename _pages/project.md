@@ -48,5 +48,5 @@ Die Familie rückt näher zusammen - und, dennoch, kann jede Generation ihren ei
 
 # Überblick
 
-Details zu den einzelnen Häusern, können Sie hier gewinnne: [zum Überblick](/overview)
+Details zu den einzelnen Häusern, können Sie hier gewinnen: [zum Überblick](/overview)
 
