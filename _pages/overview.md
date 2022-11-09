@@ -9,42 +9,29 @@ header:
   caption: "Projektüberblick"
 excerpt: "Verschaffen Sie sich einen Überblick."
 
-feature_northsouth:
+feature_north:
   - image_path: /assets/images/lines/schnitt_nord.png
     alt: "Hausschnitt Nord"
-    title: "Hausschnitt Nord"
-    excerpt: ""
-    url: "/assets/images/lines/schnitt_nord.png"
-    btn_label: "Vergrößern"
-    btn_class: ""
+    title: "Nord"
+
+feature_south:
   - image_path: /assets/images/lines/schnitt_sued.png
     alt: "Hausschnitt Süd"
-    title: "Hausschnitt Süd"
-    excerpt: ""
-    url: "/assets/images/lines/schnitt_sued.png"
-    btn_label: "Vergrößern"
-    btn_class: ""
+    title: "Süd"
 
-feature_eastwest:
+feature_east:
   - image_path: /assets/images/lines/schnitt_ost.png
     alt: "Hausschnitt Ost"
-    title: "Hausschnitt Ost"
-    excerpt: ""
-    url: "/assets/images/lines/schnitt_ost.png"
-    btn_label: "Vergrößern"
-    btn_class: ""
+    title: "Ost"
+
+feature_west:
   - image_path: /assets/images/lines/schnitt_west.png
     alt: "Hausschnitt West"
-    title: "Hausschnitt West"
-    excerpt: ""
-    url: "/assets/images/lines/schnitt_west.png"
-    btn_label: "Vergrößern"
-    btn_class: ""
+    title: "West"
 
 feature_row1:
   - image_path: /assets/images/lines/grundstuecke.png
     alt: "Grundstücke"
-    title: "Grundstücke"
     excerpt: ""
     url: "/assets/images/lines/grundstuecke.png"
     btn_label: "Vergrößern"
@@ -53,45 +40,44 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/visual_221013_01_s.jpg
     alt: "Hausansicht Südost"
-    title: "Hausansicht Südost"
+    title: "Südost"
     excerpt: ''
-    url: "/assets/images/visual_221013_01_s.jpg"
-    btn_label: "zu Maps"
-    btn_label: "Vergrößern"
-    btn_class: ""
+
 feature_row3:
   - image_path: /assets/images/visual_221013_02_s.jpg
     alt: "Hausansicht Südwest"
-    title: "Hausansicht Südwest"
+    title: "Südwest"
     excerpt: ''
-    url: "/assets/images/visual_221013_02_s.jpg"
-    btn_label: "Vergrößern"
-    btn_class: ""
+
 feature_row4:
   - image_path: /assets/images/visual_221013_04_s.jpg
     alt: "Hausansicht Nordost"
-    title: "Hausansicht Nordost"
-    excerpt: ''
-    url: "/assets/images/visual_221013_04_s.jpg"
-    btn_label: "Vergrößern"
-    btn_class: ""
+    title: "Nordost"
+
 feature_row5:
   - image_path: /assets/images/visual_221013_05_s.jpg
     alt: "Hausansicht Nordwest"
-    title: "Hausansicht Nordwest"
-    excerpt: ''
-    url: "/assets/images/visual_221013_05_s.jpg"
-    btn_label: "Vergrößern"
-    btn_class: ""
+    title: "Nordwest"
+
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_northsouth" type="center" %}
+<h1 style="text-align:center">Hausschnitte</h1>
 
-{% include feature_row id="feature_eastwest" type="center" %}
+---
+
+{% include feature_row id="feature_south" type="center" %}
+{% include feature_row id="feature_north" type="center" %}
+
+{% include feature_row id="feature_east" type="center" %}
+{% include feature_row id="feature_west" type="center" %}
+
+<h1 style="text-align:center">Grundstücke</h1>
 
 {% include feature_row id="feature_row1" type="center" %}
+
+<h1 style="text-align:center">Ansichten</h1>
 
 {% include feature_row id="feature_row2" type="center" %}
 
