@@ -6,6 +6,6 @@ main:
   - title: "Projekt"
     url: /project
   - title: "Überblick"
-    url: /overview/
-  - title: "TH-Haus (ext.)"
-    url: http://www.th-haus.de
+    url: /overview
+  - title: "Kontakt"
+    url: /contact

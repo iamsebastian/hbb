@@ -10,14 +10,22 @@ header:
   caption: "Visualisierung 1"
 excerpt: "Informieren Sie sich hier über das Wohnanlagen-Projekt in Nordhausen Nord, mit dem unverfänglichen Blick Richtung Rüdigsdorfer Schweiz."
 intro: 
-  - excerpt: '_Machen Sie sich selbst ein Bild von dem Neubauviertel und schlendern Sie doch einfach mal durch die Straßen `Heidelbergblick` und `Zum Gumpetal`_, in 99734 Nordhausen'
+  - excerpt: '_Heidelbergblick_'
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-Wenn Sie Interesse an einem stilvollen Zuhause haben, sind Sie hier genau richtig.
+# Naturgesund ...
 
-# Projekt
+... CO2-neutral, ressourcenschonend, energieeffizient und wertbeständig? Wenn Sie bauen, wollen Sie alles richtig machen. Von Anfang an - und nachhaltig gedacht. Das Ergebnis wird sie überzeugen.
 
-Einen konkreten Überblick über das Projekt können sie hier gewinnen: [zum Projekt](/project)
+# Wohlfühlklima
+
+Ein Wohnklima, in dem Sie sich rundum wohlfühlen - Tag und Nacht. Zu jeder Jahreszeit. Raumluftqualität, die gesetzliche Anforderungen weit übertrifft - und Sie gesünder leben lässt. Dämmeigenschaften, die Ihr neues Zuhause zum `Effizienzhaus 40 NH` machen.
+
+---
+
+# Das Projekt
+
+Einen konkreten Überblick und weitere Details über das Projekt, können sie hier gewinnen: [zum Projekt](/project)
 
