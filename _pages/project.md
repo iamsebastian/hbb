@@ -7,7 +7,10 @@ header:
   overlay_filter: "0.3"
   overlay_image: /assets/images/lines/grundstuecke.png
   caption: "Projektüberblick"
+  overlay_image: /assets/images/visual_221013_02_s.jpg
+  caption: "Visualisierung 2"
 excerpt: "Alle Details über das Projekt."
+
 feature_row:
   - image_path: /assets/images/lines/grundstuecke.png
     alt: "Grundstücke"
