@@ -31,17 +31,17 @@ feature_west:
 
 feature_ug:
   - image_path: /assets/images/lines/schnitt_ug.png
-    alt: "Hausschnitt UG""
+    alt: "Hausschnitt UG"
     title: "Untergeschoss"
 
 feature_eg:
   - image_path: /assets/images/lines/schnitt_eg.png
-    alt: "Hausschnitt EG""
+    alt: "Hausschnitt EG"
     title: "Erdgeschoss"
 
 feature_og:
   - image_path: /assets/images/lines/schnitt_og.png
-    alt: "Hausschnitt OG""
+    alt: "Hausschnitt OG"
     title: "Obergeschoss"
 
 feature_row1:
