@@ -4,8 +4,8 @@ main:
   - title: "Home"
     url: /
   - title: "Projekt"
-    url: /project
+    url: /project/
   - title: "Überblick"
-    url: /overview
+    url: /overview/
   - title: "Kontakt"
-    url: /contact
+    url: /contact/
