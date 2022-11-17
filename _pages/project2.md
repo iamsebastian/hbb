@@ -1,7 +1,7 @@
 ---
 title: "Projekt"
 layout: splash
-permalink: /project/
+permalink: /project2
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
