@@ -11,6 +11,7 @@ header:
 excerpt: "Informieren Sie sich hier über das Wohnanlagen-Projekt in Nordhausen Nord, mit dem unverfänglichen Blick Richtung Rüdigsdorfer Schweiz."
 intro: 
   - excerpt: '_Heidelbergblick_'
+
 ---
 
 {% include feature_row id="intro" type="center" %}
