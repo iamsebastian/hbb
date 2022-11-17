@@ -16,7 +16,7 @@ feature_row2:
   - image_path: /assets/images/visual_221013_01_s.jpg
     alt: "Visualisierung 1"
     title: "Naturgesund ..."
-    excerpt: '... CO2-neutral, ressourcenschonend, energieeffizient und wertbeständig? Wenn Sie bauen, wollen Sie alles richtig machen. Von Anfang an - und nachhaltig gedacht. Das Ergebnis wird sie überzeugen.'
+    excerpt: '... CO2-neutral, ressourcenschonend, energieeffizient und wertbeständig? Wenn Sie bauen, wollen Sie alles richtig machen. Von Anfang an - und nachhaltig gedacht. Das Ergebnis wird Sie überzeugen.'
 
 feature_row3:
   - image_path: /assets/images/visual_221013_02_s.jpg

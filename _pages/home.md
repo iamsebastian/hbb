@@ -18,7 +18,7 @@ intro:
 
 # Naturgesund ...
 
-... CO2-neutral, ressourcenschonend, energieeffizient und wertbeständig? Wenn Sie bauen, wollen Sie alles richtig machen. Von Anfang an - und nachhaltig gedacht. Das Ergebnis wird sie überzeugen.
+... CO2-neutral, ressourcenschonend, energieeffizient und wertbeständig? Wenn Sie bauen, wollen Sie alles richtig machen. Von Anfang an - und nachhaltig gedacht. Das Ergebnis wird Sie überzeugen.
 
 # Wohlfühlklima
 
