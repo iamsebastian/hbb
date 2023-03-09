@@ -78,7 +78,7 @@ feature_row5:
 
 {% include feature_row id="intro" type="center" %}
 
-<h1 style="text-align:center">Hausschnitte</h1>
+<h1 style="text-align:center">Ansichten</h1>
 
 ---
 
@@ -88,7 +88,7 @@ feature_row5:
 {% include feature_row id="feature_east" type="center" %}
 {% include feature_row id="feature_west" type="center" %}
 
-<h1 style="text-align:center">Grundschnitte</h1>
+<h1 style="text-align:center">Grundrisse</h1>
 
 {% include feature_row id="feature_ug" type="center" %}
 {% include feature_row id="feature_eg" type="center" %}
