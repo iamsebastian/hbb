@@ -27,3 +27,4 @@ Töpferstr. 28<br/>
 </address>
 
 Tel.: [03631 - 466 566](tel:+493631466566)
+Tel.: [https://triga-nordhausen.de/](https://triga-nordhausen.de/)
