@@ -30,17 +30,17 @@ feature_west:
     title: "West"
 
 feature_ug:
-  - image_path: /assets/images/lines/schnitt_ug.png
+  - image_path: /assets/images/lines/schnitt_ug_20230317.png
     alt: "Hausschnitt UG"
     title: "Untergeschoss"
 
 feature_eg:
-  - image_path: /assets/images/lines/schnitt_eg.png
+  - image_path: /assets/images/lines/schnitt_eg_20230317.png
     alt: "Hausschnitt EG"
     title: "Erdgeschoss"
 
 feature_og:
-  - image_path: /assets/images/lines/schnitt_og.png
+  - image_path: /assets/images/lines/schnitt_og_20230317.png
     alt: "Hausschnitt OG"
     title: "Obergeschoss"
 
@@ -94,9 +94,9 @@ feature_row5:
 {% include feature_row id="feature_eg" type="center" %}
 {% include feature_row id="feature_og" type="center" %}
 
-<h1 style="text-align:center">Grundstücke</h1>
+<!--<h1 style="text-align:center">Grundstücke</h1>-->
 
-{% include feature_row id="feature_row1" type="center" %}
+<!--{% include feature_row id="feature_row1" type="center" %}-->
 
 <h1 style="text-align:center">Ansichten</h1>
 
