@@ -6,7 +6,7 @@ title: Willkommen
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/photo_03.jpg
+  overlay_image: /assets/images/photo_04.jpg
   caption: "Visualisierung 1"
 excerpt: "Informieren Sie sich hier über das Wohnanlagen-Projekt in Nordhausen Nord, mit dem unverfänglichen Blick Richtung Rüdigsdorfer Schweiz."
 intro: 
