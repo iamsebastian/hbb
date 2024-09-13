@@ -16,17 +16,4 @@ Freiherr-vom-Stein-Str. 32<br/>
 99734 Nordhausen<br/>
 </address>
 
-[E-Mail senden](mailto:info@triga-nordhausen.de?Subject=BV%20Heidelbergblick%20Kontaktaufnahme)
-
-### Vertrieb
-
-<address>
-TRIGA Immobilien<br/>
-Töpferstr. 28<br/>
-99734 Nordhausen<br/>
-</address>
-
-
-Tel.: [03631 - 466 566](tel:+493631466566)
-
-[https://triga-nordhausen.de/](https://triga-nordhausen.de/)
+[E-Mail senden](mailto:info@th-holzbau.de?Subject=BV%20Heidelbergblick%20Kontaktaufnahme)

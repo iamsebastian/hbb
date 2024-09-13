@@ -27,13 +27,13 @@ feature_row1:
     excerpt: 'Das Effizienzhaus 40 benötigt weniger als 40% des, durch das GEGE vorgegebenen, maximalen Energiebedarfs. Dafür sorgt, unter anderem, die ausgezeichnet gedämmte Gebäudehülle. Ein geringerer Energiebedarf entsteht, was Heizkosten einspart.'
 
 feature_row2:
-  - image_path: /assets/images/visual_221013_01_s.jpg
+  - image_path: /assets/images/photo_01.jpg
     alt: "Visualisierung 1"
     title: "Mehrgenerationenhaus"
     excerpt: '<b>Zusammen weniger allein.</b> Vielfältig und offen, sozial und familiär: Das Zusammenleben in einem Mehrgenerationenhaus ist für alle Beteiligten ein großer Gewinn. Die Familie rückt näher zusammen - und, dennoch, kann jede Generation ihren eigenen Rückzugsraum beanspruchen.'
 
 feature_row3:
-  - image_path: /assets/images/visual_221013_02_s.jpg
+  - image_path: /assets/images/photo_02.jpg
     alt: "Visualisierung 2"
     title: "Einliegerwohnung"
     excerpt: 'Die Möglichkeiten mit angegliederter Einliegerwohnung sind nahezu grenzenlos: Vermietung, Rückzugsort für die erwachsen werdenden Kinder, Bleibe für die Großeltern, Büroräume ...'
