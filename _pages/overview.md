@@ -5,7 +5,7 @@ permalink: /overview/
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/lines/overview_002.png
+  overlay_image: /assets/images/lines/overview_003.jpg
   caption: "Projektüberblick"
 excerpt: "Verschaffen Sie sich einen Überblick."
 
